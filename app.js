@@ -1,3 +1,3 @@
 console.log("Hello")
-console.log("Vector is here")
-console.log("My name is Alice")
+console.log("This is a new feature")
+console.log("Merge me")
